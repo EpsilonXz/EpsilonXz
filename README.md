@@ -1,8 +1,6 @@
-<p align="center" style="padding-left:20px;">
+<h1 align="center">🙊 Roi Carmona </h1>
 
-#                                   🙊 Roi Carmona
 
-</p>
 
 **`Freak Coder (Developer/Researcher/Exploiter)`**
 
@@ -14,9 +12,13 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EpsilonXz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<br />
+<br />
+<br />
+<br />
 
-###                         🧰 Languages and Tools
+---
+<h1 align="center">🧰 Languages and Tools </h1> 
 
 <img align="left" alt="Assembly 8086" width="30px" style="padding-right:10px;" src="https://github.com/martinalebachew/martinalebachew/blob/main/assets/assembly-8086.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
