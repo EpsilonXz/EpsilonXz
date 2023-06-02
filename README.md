@@ -30,6 +30,10 @@
 <img align="left" alt="Ghidra" width="30px" style="padding-right:10px;" src="https://github.com/martinalebachew/martinalebachew/blob/main/assets/ghidra.svg" />
 
 <br />
+<br />
+<br />
+<br />
+
 ### 📊 Stats
 
 ![Roi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpsilonXz&show_icons=true&theme=gruvbox)
