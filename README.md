@@ -1,4 +1,4 @@
-# 🏄‍♂️ Roi Carmona
+#                                   😈 Roi Carmona
 
 **`Freak Coder (Developer/Researcher/Exploiter)`**
 
@@ -12,9 +12,9 @@
 
 ---
 
-### 🧰 Languages and Tools
+###                         🧰 Languages and Tools
 
-<img align="left" alt="Assembly 8086" width="30px" style="padding-right:10px;" src="assets/assembly-8086.svg"/>
+<img align="left" alt="Assembly 8086" width="30px" style="padding-right:10px;" src="https://github.com/martinalebachew/martinalebachew/blob/main/assets/assembly-8086.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -26,10 +26,10 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="assets/powershell.svg"/>
-<img align="left" alt="Ghidra" width="30px" style="padding-right:10px;" src="assets/ghidra.svg" />
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://github.com/martinalebachew/martinalebachew/blob/main/assets/powershell.svg"/>
+<img align="left" alt="Ghidra" width="30px" style="padding-right:10px;" src="https://github.com/martinalebachew/martinalebachew/blob/main/assets/ghidra.svg" />
 
-
+<br />
 ### 📊 Stats
 
 ![Roi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpsilonXz&show_icons=true&theme=gruvbox)
